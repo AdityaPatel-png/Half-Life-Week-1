@@ -55,7 +55,7 @@ In this session, I decided that I would attempt to make my PCB keyboard also fun
 
 **0.5h**
 
-I spent a long time troubleshooting my code. Even though I installed it and did the thing it prompted in my terminal, any instances called relating to the Raspberry Pi Pico were appearing as undefined error in VS code. I spent about half an hour failing to fix it, so I just wrote the code out for now, checked with an experienced friend that it would run properly (I'm a java guy, its my first time using C++) and I'll try to switch it to Arduino when I get to actually building.
+I spent a long time troubleshooting my code. Even though I installed it and did the thing it prompted in my terminal, any instances called relating to the Raspberry Pi Pico were appearing as undefined error in VS code. I spent about half an hour failing to fix it, so I just wrote the code out for now, checked with AI (double checked with an experienced friend because I don't trust AI) to make sure it would run properly (I'm a java guy, its my first time using C++) and I'll try to switch it to Arduino when I get to actually building.
 
 ![Screenshot 2026-10-11 at 8.24.28 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/e435oI7m9doNgKYx7YcRg1t49EKokN00/aff736534665d4ae16e3c35da87987d8db3d21549299f5f252f710df49d42246.png)
 
