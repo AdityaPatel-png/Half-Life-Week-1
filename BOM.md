@@ -12,15 +12,9 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [MX switches](https://divinikey.com) | To make the keys functional | 18 | $0.30 | $5.40 | [DivinKey](https://divinikey.com) |
-| [1u Keycaps](https://keebmaker.com) | To cover the MX switches | 17 | $0.67 | $11.39 | [Keebmaker](https://keebmaker.com) |
-| [PCB](https://jlcpcb.com) | Self explanatory | 1 | $4.00 | $4.00 | [JLCPCB](https://jlcpcb.com) |
-| [USB-C Receptacle](https://lcsc.com) | Connect USB C to PCB | 1 | $0.45 | $0.45 | [LCSC](https://lcsc.com) |
-| [USB A](https://digikey.com) | Connect USB A to PCB (Power only) | 1 | $0.30 | $0.30 | [Digikey](https://digikey.com) |
-| [Micro SD card Slot](https://mouser.com) | PCB can act as external storage adaptor | 1 | $0.60 | $0.60 | [Mouser](https://mouser.com) |
 | [SMD Resistors](https://lcsc.com) | 5.1k resistors so USB receptacles don't fry | 2 | $0.02 | $0.04 | [LCSC](https://lcsc.com) |
-| **Parts subtotal** | — | — | — | **$22.18** | — |
+| **Parts subtotal** | — | — | — | **$0.04** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$22.18** | — |
+| **Total** | — | — | — | **$0.04** | — |
 
-$7.82 left of the tier's funding.
+$29.96 left of the tier's funding.
