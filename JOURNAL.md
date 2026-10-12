@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4.66h | 3 |
+| Week 1 | Tier 1 | 5.16h | 3 |
 
 ## Contents
 
@@ -30,7 +30,7 @@ I spent this time learning to use the basic KiCAD schematic editor, as I have vi
 
 ### 2026-10-11 – I did about 30 minutes of research between my sessions on some common uses for PCBs and parts I could use, and decided I would make a gaming keyboard. By this, I mean that it would only have keys WASD
 
-**2.53h**
+**3.03h**
 
 I did about 30 minutes of research between my sessions on some common uses for PCBs and parts I could use, and decided I would make a gaming keyboard. By this, I mean that it would only have keys WASD, number keys, CTRL, c, and V. I'm also trying to make a mousepad connection so that it can allow a tablet or smartphone to act as a computer. To do this, I had to scrap my previous work and I replaced it with several pushbuttons (if there is a special footprint for keyboard keys I will try to implement them in the future) and I added an rPI pico as the brain. It uses a 12 pin connector to connect to the touchpad, because KiCAD doesn't have one and I haven't confirmed if I want to implement it yet. I also did the footprints and wiring rails for the PCB. (The additional hours is just the research time, the actual design time is all featured in the timelapse)
 
