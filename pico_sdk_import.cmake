@@ -1,3 +1,6 @@
+// this was an attempt to make VS code recognize the raspberry pi pico extension i downloaded, but it did not work. 
+// During build week, Ill just switch to arduino and add it.
+
 if (NOT PICO_SDK_PATH)
     set(PICO_SDK_PATH "$ENV{PICO_SDK_PATH}" CACHE PATH "Path to the Pico SDK")
     if (NOT PICO_SDK_PATH)
